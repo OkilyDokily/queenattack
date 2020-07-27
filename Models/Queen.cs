@@ -1,3 +1,5 @@
+using System;
+
 namespace QueenAttack.Models{
   public class Queen{
     public int X {get;}
@@ -8,11 +10,18 @@ namespace QueenAttack.Models{
       Y = y;
     }
 
-    private isDiagonal 
+    private bool isDiagonal(int x, int y){
+      if (Math.Abs((X - x)) == Math.Abs((Y - y))){
+        return true;
+      }
+      return false;
+    } 
     public bool canAttackSpace(int x, int y){
+      if ((X == x) && (Y == y)) return false;
       if(X == x) return true;
       if(Y == y) return true;
-
+      if (isDiagonal(x,y)) return true;
+      return false;
     }
   }
 }
