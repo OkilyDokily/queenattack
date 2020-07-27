@@ -5,7 +5,7 @@ namespace QueenAttack.Models{
     public int X {get;}
     public int Y {get;}
 
-    Queen(int x, int y){
+    public Queen(int x, int y){
       X = x;
       Y = y;
     }

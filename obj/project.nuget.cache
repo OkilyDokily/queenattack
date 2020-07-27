@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pm0S59y9BrtUJszmKt3BxX17pcLeCRkGTb+ds04sIqxLytQVOyapPzlnovNMpYu9bH4X8Uf8KKVibKpaUzXevQ==",
+  "dgSpecHash": "HMOOiaSoj+zZmF5KFp4kGYHvEJhYmntceYoTh+NZJxFndjIq0/0Muxcd4YgiQpM+FkEAoYNOIZLQpgV5dzkymg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
+  "projectFilePath": "C:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irons\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\irons\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj": {}
+    "C:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj": {}
   },
   "projects": {
-    "c:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj": {
+    "C:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
+        "projectUniqueName": "C:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
         "projectName": "QueenAttack",
-        "projectPath": "c:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
+        "projectPath": "C:\\Users\\irons\\Desktop\\queenattack\\QueenAttack.csproj",
         "packagesPath": "C:\\Users\\irons\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\irons\\Desktop\\queenattack\\obj\\",
+        "outputPath": "C:\\Users\\irons\\Desktop\\queenattack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

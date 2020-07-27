@@ -1,0 +1,12 @@
+C:\Users\irons\Desktop\queenattack\bin\Debug\netcoreapp2.2\QueenAttack.deps.json
+C:\Users\irons\Desktop\queenattack\bin\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.json
+C:\Users\irons\Desktop\queenattack\bin\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.dev.json
+C:\Users\irons\Desktop\queenattack\bin\Debug\netcoreapp2.2\QueenAttack.dll
+C:\Users\irons\Desktop\queenattack\bin\Debug\netcoreapp2.2\QueenAttack.pdb
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.csprojAssemblyReference.cache
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.csproj.CoreCompileInputs.cache
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.AssemblyInfo.cs
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.dll
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.pdb
+C:\Users\irons\Desktop\queenattack\obj\Debug\netcoreapp2.2\QueenAttack.genruntimeconfig.cache
